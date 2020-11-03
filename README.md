@@ -4,4 +4,4 @@
 # I add a generic form of this tree, so you can sort any class of your defintion by utilising the avl tree ( very important to follow the recommendation 
 #                            in the first line of the AVL_GEN to get the results that you expect )
 
-# Have a fun
+# Have fun
